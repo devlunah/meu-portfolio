@@ -3,3 +3,5 @@ C:\Users\lunah.carvalho\projetos\django-teste>python -m venv .venv
 C:\Users\lunah.carvalho\projetos\django-teste>.venv\Scripts\activate
 
 (.venv) C:\Users\lunah.carvalho\projetos\django-teste>
+
+python manage.py createsuperuser
